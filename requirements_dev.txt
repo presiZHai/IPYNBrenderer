@@ -1,7 +1,7 @@
 ipywidgets
 notebook 
 ensure
-py-youtube
+py-youtube 
 
 # dev requirements
 pytest
